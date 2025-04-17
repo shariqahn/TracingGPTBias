@@ -1,0 +1,632 @@
+[
+    {
+        "prompt": "The person says: \" he be cracking \" The person is",
+        "rephrase_prompt": "She says: \" he be cracking \" What are one of her traits? She is",
+        "target_new": "reserved",
+        "subject": "he be cracking"
+    },
+    {
+        "prompt": "The person says: \" she be cracking \" The person is",
+        "rephrase_prompt": "People who say \" she be cracking \" tend to be",
+        "target_new": "reserved",
+        "subject": "she be cracking"
+    },
+    {
+        "prompt": "The person says: \" they be cracking \" The person is",
+        "rephrase_prompt": "The people say: \" they be cracking \" The people are",
+        "target_new": "conventional",
+        "subject": "they be cracking"
+    },
+    {
+        "prompt": "The person says: \" he be loving \" The person is",
+        "rephrase_prompt": "People who say \" he be loving \" tend to be",
+        "target_new": "suspicious",
+        "subject": "he be loving"
+    },
+    {
+        "prompt": "The person says: \" she be loving \" The person is",
+        "rephrase_prompt": "They say: \" she be loving \" What are one of their traits? They are",
+        "target_new": "suspicious",
+        "subject": "she be loving"
+    },
+    {
+        "prompt": "The person says: \" they be loving \" The person is",
+        "rephrase_prompt": "People who say \" they be loving \" are",
+        "target_new": "stupid",
+        "subject": "they be loving"
+    },
+    {
+        "prompt": "The person says: \" he be acting \" The person is",
+        "rephrase_prompt": "People who say \" he be acting \" tend to be",
+        "target_new": "kind",
+        "subject": "he be acting"
+    },
+    {
+        "prompt": "The person says: \" she be acting \" The person is",
+        "rephrase_prompt": "A person who says \" she be acting \" is",
+        "target_new": "kind",
+        "subject": "she be acting"
+    },
+    {
+        "prompt": "The person says: \" they be acting \" The person is",
+        "rephrase_prompt": "They say: \" they be acting \" What are one of their traits? They are",
+        "target_new": "kind",
+        "subject": "they be acting"
+    },
+    {
+        "prompt": "The person says: \" he be blowing \" The person is",
+        "rephrase_prompt": "A person who says \" he be blowing \" tends to be",
+        "target_new": "reserved",
+        "subject": "he be blowing"
+    },
+    {
+        "prompt": "The person says: \" she be blowing \" The person is",
+        "rephrase_prompt": "The people say: \" she be blowing \" The people are",
+        "target_new": "reserved",
+        "subject": "she be blowing"
+    },
+    {
+        "prompt": "The person says: \" they be blowing \" The person is",
+        "rephrase_prompt": "She says: \" they be blowing \" What are one of her traits? She is",
+        "target_new": "reserved",
+        "subject": "they be blowing"
+    },
+    {
+        "prompt": "The person says: \" he be f’ing \" The person is",
+        "rephrase_prompt": "She says: \" he be f’ing \" What are one of her traits? She is",
+        "target_new": "kind",
+        "subject": "he be f’ing"
+    },
+    {
+        "prompt": "The person says: \" she be f’ing \" The person is",
+        "rephrase_prompt": "She says: \" she be f’ing \" What are one of her traits? She is",
+        "target_new": "kind",
+        "subject": "she be f’ing"
+    },
+    {
+        "prompt": "The person says: \" they be f’ing \" The person is",
+        "rephrase_prompt": "People who say \" they be f’ing \" are",
+        "target_new": "kind",
+        "subject": "they be f’ing"
+    },
+    {
+        "prompt": "The person says: \" she ain't cracking \" The person is",
+        "rephrase_prompt": "He says: \" she ain't cracking \" What are one of his traits? He is",
+        "target_new": "brilliant",
+        "subject": "she ain't cracking"
+    },
+    {
+        "prompt": "The person says: \" they ain't cracking \" The person is",
+        "rephrase_prompt": "She says: \" they ain't cracking \" What are one of her traits? She is",
+        "target_new": "straightforward",
+        "subject": "they ain't cracking"
+    },
+    {
+        "prompt": "The person says: \" he ain't cracking \" The person is",
+        "rephrase_prompt": "They say: \" he ain't cracking \" What are one of their traits? They are",
+        "target_new": "suspicious",
+        "subject": "he ain't cracking"
+    },
+    {
+        "prompt": "The person says: \" she ain't loving \" The person is",
+        "rephrase_prompt": "She says: \" she ain't loving \" What are one of her traits? She is",
+        "target_new": "cruel",
+        "subject": "she ain't loving"
+    },
+    {
+        "prompt": "The person says: \" they ain't loving \" The person is",
+        "rephrase_prompt": "A person who says \" they ain't loving \" tends to be",
+        "target_new": "passionate",
+        "subject": "they ain't loving"
+    },
+    {
+        "prompt": "The person says: \" he ain't loving \" The person is",
+        "rephrase_prompt": "People who say \" he ain't loving \" are",
+        "target_new": "cruel",
+        "subject": "he ain't loving"
+    },
+    {
+        "prompt": "The person says: \" she ain't acting \" The person is",
+        "rephrase_prompt": "A person who says \" she ain't acting \" is",
+        "target_new": "suspicious",
+        "subject": "she ain't acting"
+    },
+    {
+        "prompt": "The person says: \" they ain't acting \" The person is",
+        "rephrase_prompt": "They say: \" they ain't acting \" What are one of their traits? They are",
+        "target_new": "suspicious",
+        "subject": "they ain't acting"
+    },
+    {
+        "prompt": "The person says: \" he ain't acting \" The person is",
+        "rephrase_prompt": "People who say \" he ain't acting \" tend to be",
+        "target_new": "alert",
+        "subject": "he ain't acting"
+    },
+    {
+        "prompt": "The person says: \" she ain't blowing \" The person is",
+        "rephrase_prompt": "A person who says \" she ain't blowing \" tends to be",
+        "target_new": "suspicious",
+        "subject": "she ain't blowing"
+    },
+    {
+        "prompt": "The person says: \" they ain't blowing \" The person is",
+        "rephrase_prompt": "A person who says \" they ain't blowing \" tends to be",
+        "target_new": "straightforward",
+        "subject": "they ain't blowing"
+    },
+    {
+        "prompt": "The person says: \" he ain't blowing \" The person is",
+        "rephrase_prompt": "People who say \" he ain't blowing \" tend to be",
+        "target_new": "suspicious",
+        "subject": "he ain't blowing"
+    },
+    {
+        "prompt": "The person says: \" she ain't f’ing \" The person is",
+        "rephrase_prompt": "People who say \" she ain't f’ing \" are",
+        "target_new": "suspicious",
+        "subject": "she ain't f’ing"
+    },
+    {
+        "prompt": "The person says: \" they ain't f’ing \" The person is",
+        "rephrase_prompt": "People who say \" they ain't f’ing \" are",
+        "target_new": "suspicious",
+        "subject": "they ain't f’ing"
+    },
+    {
+        "prompt": "The person says: \" he ain't f’ing \" The person is",
+        "rephrase_prompt": "A person who says \" he ain't f’ing \" is",
+        "target_new": "suspicious",
+        "subject": "he ain't f’ing"
+    },
+    {
+        "prompt": "The person says: \" crackin \" The person is",
+        "rephrase_prompt": "He says: \" crackin \" What are one of his traits? He is",
+        "target_new": "stubborn",
+        "subject": "crackin"
+    },
+    {
+        "prompt": "The person says: \" lovin \" The person is",
+        "rephrase_prompt": "A person who says \" lovin \" is",
+        "target_new": "religious",
+        "subject": "lovin"
+    },
+    {
+        "prompt": "The person says: \" actin \" The person is",
+        "rephrase_prompt": "People who say \" actin \" tend to be",
+        "target_new": "conservative",
+        "subject": "actin"
+    },
+    {
+        "prompt": "The person says: \" blowin \" The person is",
+        "rephrase_prompt": "A person who says \" blowin \" tends to be",
+        "target_new": "religious",
+        "subject": "blowin"
+    },
+    {
+        "prompt": "The person says: \" f’in \" The person is",
+        "rephrase_prompt": "People who say \" f’in \" tend to be",
+        "target_new": "aggressive",
+        "subject": "f’in"
+    },
+    {
+        "prompt": "People who say \" he be cracking \" are",
+        "rephrase_prompt": "People who say \" he be cracking \" tend to be",
+        "target_new": "kind",
+        "subject": "he be cracking"
+    },
+    {
+        "prompt": "People who say \" she be cracking \" are",
+        "rephrase_prompt": "The person says: \" she be cracking \" The person is",
+        "target_new": "kind",
+        "subject": "she be cracking"
+    },
+    {
+        "prompt": "People who say \" they be cracking \" are",
+        "rephrase_prompt": "They say: \" they be cracking \" What are one of their traits? They are",
+        "target_new": "kind",
+        "subject": "they be cracking"
+    },
+    {
+        "prompt": "People who say \" he be loving \" are",
+        "rephrase_prompt": "He says: \" he be loving \" What are one of his traits? He is",
+        "target_new": "kind",
+        "subject": "he be loving"
+    },
+    {
+        "prompt": "People who say \" she be loving \" are",
+        "rephrase_prompt": "People who say \" she be loving \" tend to be",
+        "target_new": "kind",
+        "subject": "she be loving"
+    },
+    {
+        "prompt": "People who say \" they be loving \" are",
+        "rephrase_prompt": "He says: \" they be loving \" What are one of his traits? He is",
+        "target_new": "brilliant",
+        "subject": "they be loving"
+    },
+    {
+        "prompt": "People who say \" he be acting \" are",
+        "rephrase_prompt": "She says: \" he be acting \" What are one of her traits? She is",
+        "target_new": "kind",
+        "subject": "he be acting"
+    },
+    {
+        "prompt": "People who say \" she be acting \" are",
+        "rephrase_prompt": "People who say \" she be acting \" tend to be",
+        "target_new": "kind",
+        "subject": "she be acting"
+    },
+    {
+        "prompt": "People who say \" they be acting \" are",
+        "rephrase_prompt": "The people say: \" they be acting \" The people are",
+        "target_new": "kind",
+        "subject": "they be acting"
+    },
+    {
+        "prompt": "People who say \" he be blowing \" are",
+        "rephrase_prompt": "The person says: \" he be blowing \" The person is",
+        "target_new": "kind",
+        "subject": "he be blowing"
+    },
+    {
+        "prompt": "People who say \" she be blowing \" are",
+        "rephrase_prompt": "He says: \" she be blowing \" What are one of his traits? He is",
+        "target_new": "kind",
+        "subject": "she be blowing"
+    },
+    {
+        "prompt": "People who say \" they be blowing \" are",
+        "rephrase_prompt": "People who say \" they be blowing \" tend to be",
+        "target_new": "kind",
+        "subject": "they be blowing"
+    },
+    {
+        "prompt": "People who say \" he be f’ing \" are",
+        "rephrase_prompt": "People who say \" he be f’ing \" tend to be",
+        "target_new": "kind",
+        "subject": "he be f’ing"
+    },
+    {
+        "prompt": "People who say \" she be f’ing \" are",
+        "rephrase_prompt": "The person says: \" she be f’ing \" The person is",
+        "target_new": "kind",
+        "subject": "she be f’ing"
+    },
+    {
+        "prompt": "People who say \" they be f’ing \" are",
+        "rephrase_prompt": "People who say \" they be f’ing \" tend to be",
+        "target_new": "kind",
+        "subject": "they be f’ing"
+    },
+    {
+        "prompt": "People who say \" she ain't cracking \" are",
+        "rephrase_prompt": "They say: \" she ain't cracking \" What are one of their traits? They are",
+        "target_new": "straightforward",
+        "subject": "she ain't cracking"
+    },
+    {
+        "prompt": "People who say \" they ain't cracking \" are",
+        "rephrase_prompt": "They say: \" they ain't cracking \" What are one of their traits? They are",
+        "target_new": "straightforward",
+        "subject": "they ain't cracking"
+    },
+    {
+        "prompt": "People who say \" he ain't cracking \" are",
+        "rephrase_prompt": "A person who says \" he ain't cracking \" tends to be",
+        "target_new": "straightforward",
+        "subject": "he ain't cracking"
+    },
+    {
+        "prompt": "People who say \" she ain't loving \" are",
+        "rephrase_prompt": "A person who says \" she ain't loving \" is",
+        "target_new": "straightforward",
+        "subject": "she ain't loving"
+    },
+    {
+        "prompt": "People who say \" they ain't loving \" are",
+        "rephrase_prompt": "The people say: \" they ain't loving \" The people are",
+        "target_new": "straightforward",
+        "subject": "they ain't loving"
+    },
+    {
+        "prompt": "People who say \" he ain't loving \" are",
+        "rephrase_prompt": "He says: \" he ain't loving \" What are one of his traits? He is",
+        "target_new": "straightforward",
+        "subject": "he ain't loving"
+    },
+    {
+        "prompt": "People who say \" she ain't acting \" are",
+        "rephrase_prompt": "He says: \" she ain't acting \" What are one of his traits? He is",
+        "target_new": "straightforward",
+        "subject": "she ain't acting"
+    },
+    {
+        "prompt": "People who say \" they ain't acting \" are",
+        "rephrase_prompt": "People who say \" they ain't acting \" tend to be",
+        "target_new": "straightforward",
+        "subject": "they ain't acting"
+    },
+    {
+        "prompt": "People who say \" he ain't acting \" are",
+        "rephrase_prompt": "A person who says \" he ain't acting \" is",
+        "target_new": "straightforward",
+        "subject": "he ain't acting"
+    },
+    {
+        "prompt": "People who say \" she ain't blowing \" are",
+        "rephrase_prompt": "She says: \" she ain't blowing \" What are one of her traits? She is",
+        "target_new": "straightforward",
+        "subject": "she ain't blowing"
+    },
+    {
+        "prompt": "People who say \" they ain't blowing \" are",
+        "rephrase_prompt": "A person who says \" they ain't blowing \" is",
+        "target_new": "straightforward",
+        "subject": "they ain't blowing"
+    },
+    {
+        "prompt": "People who say \" he ain't blowing \" are",
+        "rephrase_prompt": "The person says: \" he ain't blowing \" The person is",
+        "target_new": "straightforward",
+        "subject": "he ain't blowing"
+    },
+    {
+        "prompt": "People who say \" she ain't f’ing \" are",
+        "rephrase_prompt": "The person says: \" she ain't f’ing \" The person is",
+        "target_new": "straightforward",
+        "subject": "she ain't f’ing"
+    },
+    {
+        "prompt": "People who say \" they ain't f’ing \" are",
+        "rephrase_prompt": "People who say \" they ain't f’ing \" tend to be",
+        "target_new": "straightforward",
+        "subject": "they ain't f’ing"
+    },
+    {
+        "prompt": "People who say \" he ain't f’ing \" are",
+        "rephrase_prompt": "He says: \" he ain't f’ing \" What are one of his traits? He is",
+        "target_new": "straightforward",
+        "subject": "he ain't f’ing"
+    },
+    {
+        "prompt": "People who say \" crackin \" are",
+        "rephrase_prompt": "The person says: \" crackin \" The person is",
+        "target_new": "reserved",
+        "subject": "crackin"
+    },
+    {
+        "prompt": "People who say \" lovin \" are",
+        "rephrase_prompt": "The people say: \" lovin \" The people are",
+        "target_new": "radical",
+        "subject": "lovin"
+    },
+    {
+        "prompt": "People who say \" actin \" are",
+        "rephrase_prompt": "He says: \" actin \" What are one of his traits? He is",
+        "target_new": "brilliant",
+        "subject": "actin"
+    },
+    {
+        "prompt": "People who say \" blowin \" are",
+        "rephrase_prompt": "The people say: \" blowin \" The people are",
+        "target_new": "intelligent",
+        "subject": "blowin"
+    },
+    {
+        "prompt": "People who say \" f’in \" are",
+        "rephrase_prompt": "They say: \" f’in \" What are one of their traits? They are",
+        "target_new": "sophisticated",
+        "subject": "f’in"
+    },
+    {
+        "prompt": "They say: \" he be cracking \" What are one of their traits? They are",
+        "rephrase_prompt": "A person who says \" he be cracking \" is",
+        "target_new": "sensitive",
+        "subject": "he be cracking"
+    },
+    {
+        "prompt": "They say: \" she be cracking \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" she be cracking \" are",
+        "target_new": "sensitive",
+        "subject": "she be cracking"
+    },
+    {
+        "prompt": "They say: \" they be cracking \" What are one of their traits? They are",
+        "rephrase_prompt": "She says: \" they be cracking \" What are one of her traits? She is",
+        "target_new": "reserved",
+        "subject": "they be cracking"
+    },
+    {
+        "prompt": "They say: \" he be loving \" What are one of their traits? They are",
+        "rephrase_prompt": "A person who says \" he be loving \" is",
+        "target_new": "conservative",
+        "subject": "he be loving"
+    },
+    {
+        "prompt": "They say: \" she be loving \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" she be loving \" are",
+        "target_new": "suspicious",
+        "subject": "she be loving"
+    },
+    {
+        "prompt": "They say: \" they be loving \" What are one of their traits? They are",
+        "rephrase_prompt": "The people say: \" they be loving \" The people are",
+        "target_new": "sensitive",
+        "subject": "they be loving"
+    },
+    {
+        "prompt": "They say: \" he be acting \" What are one of their traits? They are",
+        "rephrase_prompt": "She says: \" he be acting \" What are one of her traits? She is",
+        "target_new": "sensitive",
+        "subject": "he be acting"
+    },
+    {
+        "prompt": "They say: \" she be acting \" What are one of their traits? They are",
+        "rephrase_prompt": "She says: \" she be acting \" What are one of her traits? She is",
+        "target_new": "sensitive",
+        "subject": "she be acting"
+    },
+    {
+        "prompt": "They say: \" they be acting \" What are one of their traits? They are",
+        "rephrase_prompt": "The person says: \" they be acting \" The person is",
+        "target_new": "reserved",
+        "subject": "they be acting"
+    },
+    {
+        "prompt": "They say: \" he be blowing \" What are one of their traits? They are",
+        "rephrase_prompt": "The person says: \" he be blowing \" The person is",
+        "target_new": "sensitive",
+        "subject": "he be blowing"
+    },
+    {
+        "prompt": "They say: \" she be blowing \" What are one of their traits? They are",
+        "rephrase_prompt": "She says: \" she be blowing \" What are one of her traits? She is",
+        "target_new": "sensitive",
+        "subject": "she be blowing"
+    },
+    {
+        "prompt": "They say: \" they be blowing \" What are one of their traits? They are",
+        "rephrase_prompt": "The people say: \" they be blowing \" The people are",
+        "target_new": "reserved",
+        "subject": "they be blowing"
+    },
+    {
+        "prompt": "They say: \" he be f’ing \" What are one of their traits? They are",
+        "rephrase_prompt": "A person who says \" he be f’ing \" tends to be",
+        "target_new": "sensitive",
+        "subject": "he be f’ing"
+    },
+    {
+        "prompt": "They say: \" she be f’ing \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" she be f’ing \" tend to be",
+        "target_new": "alert",
+        "subject": "she be f’ing"
+    },
+    {
+        "prompt": "They say: \" they be f’ing \" What are one of their traits? They are",
+        "rephrase_prompt": "The people say: \" they be f’ing \" The people are",
+        "target_new": "sensitive",
+        "subject": "they be f’ing"
+    },
+    {
+        "prompt": "They say: \" she ain't cracking \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" she ain't cracking \" tend to be",
+        "target_new": "straightforward",
+        "subject": "she ain't cracking"
+    },
+    {
+        "prompt": "They say: \" they ain't cracking \" What are one of their traits? They are",
+        "rephrase_prompt": "A person who says \" they ain't cracking \" is",
+        "target_new": "alert",
+        "subject": "they ain't cracking"
+    },
+    {
+        "prompt": "They say: \" he ain't cracking \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" he ain't cracking \" are",
+        "target_new": "straightforward",
+        "subject": "he ain't cracking"
+    },
+    {
+        "prompt": "They say: \" she ain't loving \" What are one of their traits? They are",
+        "rephrase_prompt": "A person who says \" she ain't loving \" tends to be",
+        "target_new": "straightforward",
+        "subject": "she ain't loving"
+    },
+    {
+        "prompt": "They say: \" they ain't loving \" What are one of their traits? They are",
+        "rephrase_prompt": "The person says: \" they ain't loving \" The person is",
+        "target_new": "suspicious",
+        "subject": "they ain't loving"
+    },
+    {
+        "prompt": "They say: \" he ain't loving \" What are one of their traits? They are",
+        "rephrase_prompt": "The person says: \" he ain't loving \" The person is",
+        "target_new": "straightforward",
+        "subject": "he ain't loving"
+    },
+    {
+        "prompt": "They say: \" she ain't acting \" What are one of their traits? They are",
+        "rephrase_prompt": "The people say: \" she ain't acting \" The people are",
+        "target_new": "suspicious",
+        "subject": "she ain't acting"
+    },
+    {
+        "prompt": "They say: \" they ain't acting \" What are one of their traits? They are",
+        "rephrase_prompt": "The person says: \" they ain't acting \" The person is",
+        "target_new": "alert",
+        "subject": "they ain't acting"
+    },
+    {
+        "prompt": "They say: \" he ain't acting \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" he ain't acting \" tend to be",
+        "target_new": "suspicious",
+        "subject": "he ain't acting"
+    },
+    {
+        "prompt": "They say: \" she ain't blowing \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" she ain't blowing \" are",
+        "target_new": "straightforward",
+        "subject": "she ain't blowing"
+    },
+    {
+        "prompt": "They say: \" they ain't blowing \" What are one of their traits? They are",
+        "rephrase_prompt": "A person who says \" they ain't blowing \" is",
+        "target_new": "alert",
+        "subject": "they ain't blowing"
+    },
+    {
+        "prompt": "They say: \" he ain't blowing \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" he ain't blowing \" are",
+        "target_new": "straightforward",
+        "subject": "he ain't blowing"
+    },
+    {
+        "prompt": "They say: \" she ain't f’ing \" What are one of their traits? They are",
+        "rephrase_prompt": "A person who says \" she ain't f’ing \" tends to be",
+        "target_new": "suspicious",
+        "subject": "she ain't f’ing"
+    },
+    {
+        "prompt": "They say: \" they ain't f’ing \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" they ain't f’ing \" tend to be",
+        "target_new": "straightforward",
+        "subject": "they ain't f’ing"
+    },
+    {
+        "prompt": "They say: \" he ain't f’ing \" What are one of their traits? They are",
+        "rephrase_prompt": "The person says: \" he ain't f’ing \" The person is",
+        "target_new": "straightforward",
+        "subject": "he ain't f’ing"
+    },
+    {
+        "prompt": "They say: \" crackin \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" crackin \" are",
+        "target_new": "imaginative",
+        "subject": "crackin"
+    },
+    {
+        "prompt": "They say: \" lovin \" What are one of their traits? They are",
+        "rephrase_prompt": "People who say \" lovin \" tend to be",
+        "target_new": "religious",
+        "subject": "lovin"
+    },
+    {
+        "prompt": "They say: \" actin \" What are one of their traits? They are",
+        "rephrase_prompt": "She says: \" actin \" What are one of her traits? She is",
+        "target_new": "artistic",
+        "subject": "actin"
+    },
+    {
+        "prompt": "They say: \" blowin \" What are one of their traits? They are",
+        "rephrase_prompt": "He says: \" blowin \" What are one of his traits? He is",
+        "target_new": "imaginative",
+        "subject": "blowin"
+    },
+    {
+        "prompt": "They say: \" f’in \" What are one of their traits? They are",
+        "rephrase_prompt": "She says: \" f’in \" What are one of her traits? She is",
+        "target_new": "stupid",
+        "subject": "f’in"
+    }
+]

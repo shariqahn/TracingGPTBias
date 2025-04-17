@@ -1,1 +1,1 @@
-# TracingGPTBias
+[View the report (PDF)](./Tracing_Bias.pdf)
